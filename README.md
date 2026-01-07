@@ -1,4 +1,10 @@
 # YouTube Playlist Processor
+## Forked from https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text
+
+### Why?
+- I want to be able to use more models than only Gemini
+- I want to make the colors pink because my wife likes pink
+
 <br>
 <br>
 

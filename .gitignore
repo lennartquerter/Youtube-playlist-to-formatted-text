@@ -1,2 +1,6 @@
+.env
+.idea/
+
+temp-transcripts/
 gemini_processing.log
 gemini_processing.log
